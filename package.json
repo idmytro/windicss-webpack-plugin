@@ -1,6 +1,6 @@
 {
   "name": "windicss-webpack-plugin",
-  "version": "1.6.5",
+  "version": "1.6.6-idmytro",
   "license": "MIT",
   "author": {
     "name": "Harlan Wilton",
@@ -46,7 +46,7 @@
     "lodash": "^4.17.21",
     "pathe": "^0.2.0",
     "webpack-virtual-modules": "^0.4.3",
-    "windicss": "^3.4.3"
+    "windicss": "github:idmytro/windicss#idmytro/3.4.4-idmytro"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.10.0",
